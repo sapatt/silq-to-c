@@ -1,7 +1,7 @@
 def main()
 {
-	x:= gS:B;
-	y:= gS:B;
+	x:= 1:B;
+	y:= 1:B;
 	
 	x:=H(x);	
 	y xorb=x;
